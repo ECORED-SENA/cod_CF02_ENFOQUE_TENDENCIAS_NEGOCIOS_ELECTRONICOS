@@ -56,15 +56,15 @@
                       li.mb-0
                         span.fa-li
                           i.fas.fa-check-circle
-                        | Medir indicadores irrelevantes
+                        | Medir indicadores irrelevantes.
                       li.mb-0
                         span.fa-li
                           i.fas.fa-check-circle
-                        | No establecer metas claras
+                        | No establecer metas claras.
                       li.mb-0
                         span.fa-li
                           i.fas.fa-check-circle
-                        | No analizar los resultados de manera adecuada
+                        | No analizar los resultados de manera adecuada.
                 .col-xl-auto.col-md-9(data-aos="fade-left")
                   figure
                     img(src='@/assets/curso/temas/t6/img2.png', alt='').m-auto
@@ -73,7 +73,7 @@
         h2 6.2 Análisis de resultados
       .color___box_1
         .px-5
-          p.mb-5 El análisis de resultados implica interpretar la información obtenida a partir de los KPI, con el fin de comprender el comportamiento del usuario y evaluar el desempeño de las estrategias. Este proceso requiere no solo observar datos, sino también identificar patrones, tendencias y posibles causas de los resultados obtenidos. Las del análisis de resultado y los tipos de análisis son:
+          p.mb-5 El análisis de resultados implica interpretar la información obtenida a partir de los KPI, con el fin de comprender el comportamiento del usuario y evaluar el desempeño de las estrategias. Este proceso requiere no solo observar datos, sino también identificar patrones, tendencias y posibles causas de los resultados obtenidos. Los del análisis de resultado y los tipos de análisis son:
           .row.justify-content-center.mb-5
             .col-xl-6.col-md-9.mb-4.mb-lg-0(data-aos="fade-right")
               .box___card_sinbordes.h-100.text-white
@@ -151,7 +151,7 @@
         h2 6.3 Toma de decisiones basada en datos
       .color___box_1
         .px-5
-          p.mb-5 La toma de decisiones basada en datos utiliza la información obtenida del análisis para definir acciones estratégicas, reducir la incertidumbre, optimizar recursos y mejorar el desempeño del negocio. A continuación, se estudiará los componentes básicos:
+          p.mb-5 La toma de decisiones basada en datos utiliza la información obtenida del análisis para definir acciones estratégicas, reducir la incertidumbre, optimizar recursos y mejorar el desempeño del negocio. A continuación, se estudiarán los componentes básicos:
           .row.justify-content-center.mb-5
             .col-xl-6.col-md-9.mb-4.mb-lg-0(data-aos="fade-right")
               .box___card_sinbordes.h-100.text-white
@@ -315,11 +315,11 @@
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | ROI positivo: la estrategia es rentable
+                    | ROI positivo: la estrategia es rentable.
                   li.mb-0
                     span.fa-li
                       i.fas.fa-check-circle
-                    | ROI negativo: la estrategia genera pérdidas
+                    | ROI negativo: la estrategia genera pérdidas.
       p.mb-5 Para entender la interpretación de este indicador, se presenta el siguiente ejemplo:
       .row.justify-content-center.mb-5
         .col-xl-10
@@ -336,15 +336,15 @@
         li.mb-0
           span.fa-li
             i.fas.fa-check-circle
-          | Permite evaluar la viabilidad de las estrategias
+          | Permite evaluar la viabilidad de las estrategias.
         li.mb-0
           span.fa-li
             i.fas.fa-check-circle
-          | Facilita la toma de decisiones financieras
+          | Facilita la toma de decisiones financieras.
         li.mb-0
           span.fa-li
             i.fas.fa-check-circle
-          | Ayuda a optimizar la inversión
+          | Ayuda a optimizar la inversión.
       .color___box_1
         .px-5
           .row.align-items-center.mb-3
@@ -710,7 +710,7 @@
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t6/img34.png', alt='' style="max-width: 500px").m-auto
-      p.mb-5 Para comprender la aplicación de las estrategias de #[i marketing] digital y la generación de valor agregado, se presenta el siguiente caso integrador que articula todos los elementos desarrollados en el componente formativo
+      p.mb-5 Para comprender la aplicación de las estrategias de #[i marketing] digital y la generación de valor agregado, se presenta el siguiente caso integrador que articula todos los elementos desarrollados en el componente formativo.
       .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t6/img35.jpg')})` }")

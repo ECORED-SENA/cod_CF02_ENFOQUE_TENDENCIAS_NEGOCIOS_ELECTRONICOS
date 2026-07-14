@@ -396,7 +396,7 @@
             img(src="@/assets/curso/temas/t1/img17.svg" style="max-width: 60px").m-auto
         .col
           h3 Aplicación práctica de estrategias de fidelización
-      p.mb-5 La fidelización de clientes requiere acciones continúas orientadas a fortalecer la relación con el usuario; tales como:
+      p.mb-5 La fidelización de clientes requiere acciones continuas orientadas a fortalecer la relación con el usuario, tales como:
       .row.justify-content-center.mb-0
         .col-xl-8
           LineaTiempoD.color-acento-contenido(data-aos="zoom-in")

@@ -11,7 +11,7 @@
           p.mb-5 La gestión de campañas de #[i marketing] digital consiste en planificar, ejecutar, monitorear y optimizar acciones promocionales para alcanzar objetivos comerciales. Este proceso integra contenidos, anuncios, segmentación de audiencias, piezas creativas e indicadores de desempeño, permitiendo mejorar resultados mediante análisis, pruebas y ajustes continuos basados en datos.
           #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
             h2 2.1 Creación de campañas publicitarias
-          p.mb-5 La creación de campañas publicitarias consiste en diseñar acciones promocionales con objetivos claros, público definido y mensajes estratégicos, mediante una planificación técnica que permita obtener resultados medibles. Los elementos esenciales y estructura operativa es la siguiente:
+          p.mb-5 La creación de campañas publicitarias consiste en diseñar acciones promocionales con objetivos claros, público definido y mensajes estratégicos, mediante una planificación técnica que permita obtener resultados medibles. Los elementos esenciales y la estructura operativa son los siguientes:
           .row.justify-content-center.mb-5
             .col-xl-6.col-md-9.mb-4.mb-lg-0(data-aos="fade-right")
               .box___card_sinbordes.h-100.text-white
@@ -93,7 +93,7 @@
             img(src='@/assets/curso/temas/t2/img3.png', alt='').m-auto
       .color___box_1
         .px-5
-          p.mb-5 Para garantizar el éxito de campañas publicitarias, se recomiendas las siguientes buenas prácticas:
+          p.mb-5 Para garantizar el éxito de campañas publicitarias, se recomiendan las siguientes buenas prácticas:
           .row.justify-content-center.mb-0
             .col-xl-10
               .box___style_3(data-aos="zoom-in")
@@ -179,7 +179,7 @@
             h5 Ejemplo aplicado ampliado
             p Una empresa crea una audiencia basada en personas que visitaron su página web en los últimos 30 días y les muestra anuncios específicos con ofertas personalizadas, incrementando la probabilidad de conversión.
             h5 Errores comunes para evitar
-            p Para errores más comunes son:
+            p Los errores más comunes son:
             ul.fa-ul.estilo___ul_2.mb-0
               li.mb-0
                 span.fa-li

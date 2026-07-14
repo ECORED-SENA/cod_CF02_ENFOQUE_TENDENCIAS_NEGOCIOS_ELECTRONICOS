@@ -243,7 +243,7 @@
         h2 5.4 Innovación en productos y servicios
       .color___box_2
         .px-5
-          p.mb-5 La innovación es un elemento fundamental en el diseño de valor agregado, ya que permite a las organizaciones adaptarse a las necesidades del mercado y ofrecer soluciones novedosas que mejoren la experiencia del cliente. A continuación, se presenta las formas en las que puede presentarse la innovación y por qué es importante:
+          p.mb-5 La innovación es un elemento fundamental en el diseño de valor agregado, ya que permite a las organizaciones adaptarse a las necesidades del mercado y ofrecer soluciones novedosas que mejoren la experiencia del cliente. A continuación, se presentan las formas en las que puede presentarse la innovación y por qué es importante:
           .row.justify-content-center.mb-0
             .col-xl-10
               .box___style_3(data-aos="zoom-in").mb-3

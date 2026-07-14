@@ -9,7 +9,7 @@
       p.mb-5 Se invita a reproducir este video para comprender cómo la planeación estratégica de #[i marketing] digital fortalece los negocios electrónicos y genera valor competitivo.
       figure(data-aos="zoom-in").mb-0
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/nYtBOYaDQIs" title="Planeacion estrategica  de marketing digital"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption.fit___figcaption-video Video. Planeación estratégica de #[i marketing] digital
       Separador
       #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -31,7 +31,7 @@
                   img(src='@/assets/curso/temas/t1/img2.png' ).m-auto
               .box___card_sinbordes_p
                 h4.mb-3.estilo-text Objetivos de posicionamiento
-                p.mb-0.text-center Enfocados en mejorar la visibilidad y reconocimiento de la marca.
+                p.mb-0.text-center Enfocados en mejorar la visibilidad y el reconocimiento de la marca.
             .tarjeta.color-acento-botones
               .row.justify-content-center.mb-3
                 .col-12
@@ -53,7 +53,7 @@
                 .col-xl.mb-4.mb-lg-0
                   .box___style_2.fit___box_1(data-aos="fade-right")
                     h5 Ejemplo aplicado ampliado:
-                    p Una empresa que comercializa productos tecnológicos establece como objetivo incrementar sus ventas en un 25% en un periodo de tres meses. Para lograrlo, define metas intermedias como aumentar el tráfico a su sitio web, mejorar la tasa de conversión y optimizar la experiencia de compra.
+                    p Una empresa que comercializa productos tecnológicos establece como objetivo incrementar sus ventas en un 25 % en un periodo de tres meses. Para lograrlo, define metas intermedias como aumentar el tráfico a su sitio web, mejorar la tasa de conversión y optimizar la experiencia de compra.
                     p.mb-0 Además, se pueden establecer indicadores que permitan medir el cumplimiento de estos objetivos, tales como el número de visitas, la cantidad de ventas realizadas y el porcentaje de usuarios que completan una compra.
                 .col-xl-auto.col-md-9(data-aos="fade-left")
                   figure

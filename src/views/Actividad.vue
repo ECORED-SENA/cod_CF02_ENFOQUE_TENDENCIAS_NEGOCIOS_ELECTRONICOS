@@ -19,10 +19,10 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Cuestionario de estrategias de marketing digital y valor agregado',
+      tema: 'Cuestionario de estrategias de <em>marketing</em> digital y valor agregado',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> evaluar la capacidad del aprendiz para aplicar estrategias de marketing digital, analizar procesos de captación y fidelización de clientes, e interpretar indicadores de desempeño en un negocio electrónico, mediante la resolución de un cuestionario de selección múltiple.',
+        '<b>Objetivo:</b> evaluar la capacidad del aprendiz para aplicar estrategias de <em>marketing</em> digital, analizar procesos de captación y fidelización de clientes, e interpretar indicadores de desempeño en un negocio electrónico, mediante la resolución de un cuestionario de selección múltiple.',
       barajarPreguntas: false,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
@@ -56,8 +56,7 @@ export default {
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
-          mensaje_incorrecto:
-            'Lo sentimos, su respuesta no es la correcta. <em>Board</em> del <em>software</em> EAGLE.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
         {
           id: 2,

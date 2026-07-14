@@ -51,7 +51,7 @@
                       img(src='@/assets/curso/temas/t3/img2.png', alt="" ).m-auto
                   h4 Proceso estructurado de captación
                   .box___card_sinbordes_p
-                    p El proceso estructurado de captación esta dado por:
+                    p El proceso estructurado de captación está dado por:
                     ol.lista-ol--cuadro.mb-0
                       li
                         .lista-ol--cuadro__vineta
@@ -461,7 +461,7 @@
 </template>
 
 <script>
-import audio1 from '@/assets/curso/temas/t3/audios/audio-ej.mp3'
+import audio1 from '@/assets/curso/temas/t3/audios/Del_primer_clic_compra.mp3'
 export default {
   name: 'Tema3',
   data: () => ({
